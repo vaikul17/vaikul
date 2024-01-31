@@ -1,2 +1,6 @@
 # vaikul
+branch-1
 CHANGING DATA ON BRANCH
+
+MY FIRST REOSITORY ON GITHUB
+main
