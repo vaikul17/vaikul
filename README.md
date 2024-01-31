@@ -1,1 +1,2 @@
 # vaikul
+MY FIRST REOSITORY ON GITHUB
